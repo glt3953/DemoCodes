@@ -34,7 +34,8 @@
     
     [self.view addSubview:waterWaveView];
     
-    [waterWaveView startWaveToPercent:0.2];
+//    [waterWaveView startWaveToPercent:0.9];
+//    [waterWaveView setGrowthSpeed:0.1];
 }
 
 - (void)didReceiveMemoryWarning {
